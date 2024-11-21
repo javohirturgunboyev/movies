@@ -1,0 +1,162 @@
+[
+  {
+    "id": 1,
+    "title": "Inception",
+    "genre": "Sci-Fi",
+    "year": 2010,
+    "description": "A thief who steals corporate secrets through the use of dream-sharing technology.",
+    "director": "Christopher Nolan",
+    "rating": 8.8,
+    "image": "https://via.placeholder.com/300x400?text=Inception"
+  },
+  {
+    "id": 2,
+    "title": "The Dark Knight",
+    "genre": "Action",
+    "year": 2008,
+    "description": "Batman must accept one of the greatest psychological and physical tests of his ability to fight injustice.",
+    "director": "Christopher Nolan",
+    "rating": 9.0,
+    "image": "https://via.placeholder.com/300x400?text=The+Dark+Knight"
+  },
+  {
+    "id": 3,
+    "title": "Interstellar",
+    "genre": "Adventure, Drama, Sci-Fi",
+    "year": 2014,
+    "description": "A team of explorers travel through a wormhole in space in an attempt to ensure humanity's survival.",
+    "director": "Christopher Nolan",
+    "rating": 8.6,
+    "image": "https://via.placeholder.com/300x400?text=Interstellar"
+  },
+  {
+    "id": 4,
+    "title": "The Shawshank Redemption",
+    "genre": "Drama",
+    "year": 1994,
+    "description": "Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency.",
+    "director": "Frank Darabont",
+    "rating": 9.3,
+    "image": "https://via.placeholder.com/300x400?text=Shawshank+Redemption"
+  },
+  {
+    "id": 5,
+    "title": "The Godfather",
+    "genre": "Crime, Drama",
+    "year": 1972,
+    "description": "The aging patriarch of an organized crime dynasty transfers control of his clandestine empire to his reluctant son.",
+    "director": "Francis Ford Coppola",
+    "rating": 9.2,
+    "image": "https://via.placeholder.com/300x400?text=The+Godfather"
+  },
+  {
+    "id": 6,
+    "title": "Pulp Fiction",
+    "genre": "Crime, Drama",
+    "year": 1994,
+    "description": "The lives of two mob hitmen, a boxer, a gangster's wife, and a pair of diner bandits intertwine in four tales of violence and redemption.",
+    "director": "Quentin Tarantino",
+    "rating": 8.9,
+    "image": "https://via.placeholder.com/300x400?text=Pulp+Fiction"
+  },
+  {
+    "id": 7,
+    "title": "The Matrix",
+    "genre": "Action, Sci-Fi",
+    "year": 1999,
+    "description": "A computer hacker learns from mysterious rebels about the true nature of his reality and his role in the war against its controllers.",
+    "director": "Lana Wachowski, Lilly Wachowski",
+    "rating": 8.7,
+    "image": "https://via.placeholder.com/300x400?text=The+Matrix"
+  },
+  {
+    "id": 8,
+    "title": "Fight Club",
+    "genre": "Drama",
+    "year": 1999,
+    "description": "An insomniac office worker and a devil-may-care soapmaker form an underground fight club that evolves into much more.",
+    "director": "David Fincher",
+    "rating": 8.8,
+    "image": "https://via.placeholder.com/300x400?text=Fight+Club"
+  },
+  {
+    "id": 9,
+    "title": "Forrest Gump",
+    "genre": "Drama, Romance",
+    "year": 1994,
+    "description": "The presidencies of Kennedy and Johnson, the Vietnam War, and other historical events unfold from the perspective of an Alabama man with an IQ of 75.",
+    "director": "Robert Zemeckis",
+    "rating": 8.8,
+    "image": "https://via.placeholder.com/300x400?text=Forrest+Gump"
+  },
+  {
+    "id": 10,
+    "title": "The Lord of the Rings: The Return of the King",
+    "genre": "Adventure, Drama, Fantasy",
+    "year": 2003,
+    "description": "Gandalf and Aragorn lead the World of Men against Sauron's army to draw his gaze from Frodo and Sam as they approach Mount Doom with the One Ring.",
+    "director": "Peter Jackson",
+    "rating": 9.0,
+    "image": "https://via.placeholder.com/300x400?text=LOTR+Return+of+the+King"
+  },
+  {
+    "id": 11,
+    "title": "Avatar",
+    "genre": "Action, Adventure, Fantasy",
+    "year": 2009,
+    "description": "A paraplegic Marine dispatched to the moon Pandora on a unique mission becomes torn between following his orders and protecting the world he feels is his home.",
+    "director": "James Cameron",
+    "rating": 7.8,
+    "image": "https://via.placeholder.com/300x400?text=Avatar"
+  },
+  {
+    "id": 12,
+    "title": "Titanic",
+    "genre": "Drama, Romance",
+    "year": 1997,
+    "description": "A seventeen-year-old aristocrat falls in love with a kind but poor artist aboard the luxurious, ill-fated R.M.S. Titanic.",
+    "director": "James Cameron",
+    "rating": 7.9,
+    "image": "https://via.placeholder.com/300x400?text=Titanic"
+  },
+  {
+    "id": 13,
+    "title": "The Avengers",
+    "genre": "Action, Adventure, Sci-Fi",
+    "year": 2012,
+    "description": "Earth's mightiest heroes must come together and learn to fight as a team if they are going to stop the mischievous Loki and his alien army from enslaving humanity.",
+    "director": "Joss Whedon",
+    "rating": 8.0,
+    "image": "https://via.placeholder.com/300x400?text=The+Avengers"
+  },
+  {
+    "id": 14,
+    "title": "Gladiator",
+    "genre": "Action, Adventure, Drama",
+    "year": 2000,
+    "description": "A former Roman General sets out to exact vengeance against the corrupt emperor who murdered his family and sent him into slavery.",
+    "director": "Ridley Scott",
+    "rating": 8.5,
+    "image": "https://via.placeholder.com/300x400?text=Gladiator"
+  },
+  {
+    "id": 15,
+    "title": "Jurassic Park",
+    "genre": "Action, Adventure, Sci-Fi",
+    "year": 1993,
+    "description": "A pragmatic paleontologist visiting an almost complete theme park is tasked with protecting a couple of kids after a power failure causes the park's cloned dinosaurs to run loose.",
+    "director": "Steven Spielberg",
+    "rating": 8.1,
+    "image": "https://via.placeholder.com/300x400?text=Jurassic+Park"
+  },
+  {
+    "id": 16,
+    "title": "The Lion King",
+    "genre": "Animation, Adventure, Drama",
+    "year": 1994,
+    "description": "Lion prince Simba and his father are targeted by his bitter uncle, who wants to ascend the throne himself.",
+    "director": "Roger Allers, Rob Minkoff",
+    "rating": 8.5,
+    "image": "https://via.placeholder.com/300x400?text=The+Lion+King"
+  }
+]
